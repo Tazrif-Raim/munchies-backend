@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\bin\Debug\DAL.dll.config
+C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\bin\Debug\DAL.dll
+C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.dll
+C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.pdb
+C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.Migrations.added_Ingrdients_Recipes_Brands_Tables.resources
+C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
