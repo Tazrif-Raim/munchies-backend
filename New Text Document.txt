@@ -1,3 +1,0 @@
-Detect whether the received sequence 101110101 is error free 
-if the pattern sequence is 1010 using CRC technique
-Solve the Homework from 21 no slide from the Linear block code lecture.
