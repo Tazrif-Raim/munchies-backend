@@ -57,6 +57,10 @@
     <Compile Include="Migrations\202404300147246_added_Ingrdients_Recipes_Brands_Tables.designer.cs">
       <DependentUpon>202404300147246_added_Ingrdients_Recipes_Brands_Tables.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202405101449523_added_column_Brand_Id_to_Recipe.cs" />
+    <Compile Include="Migrations\202405101449523_added_column_Brand_Id_to_Recipe.designer.cs">
+      <DependentUpon>202405101449523_added_column_Brand_Id_to_Recipe.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Brand.cs" />
     <Compile Include="Models\Ingredient.cs" />
@@ -76,6 +80,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202404300147246_added_Ingrdients_Recipes_Brands_Tables.resx">
       <DependentUpon>202404300147246_added_Ingrdients_Recipes_Brands_Tables.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202405101449523_added_column_Brand_Id_to_Recipe.resx">
+      <DependentUpon>202405101449523_added_column_Brand_Id_to_Recipe.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

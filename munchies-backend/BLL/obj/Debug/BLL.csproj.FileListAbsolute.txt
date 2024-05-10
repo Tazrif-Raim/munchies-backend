@@ -10,3 +10,5 @@ C:\Users\Admin\Desktop\munchies-backend\munchies-backend\BLL\obj\Debug\BLL.cspro
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\BLL\obj\Debug\BLL.csproj.CopyComplete
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\BLL\obj\Debug\BLL.dll
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\BLL\obj\Debug\BLL.pdb
+C:\Users\Admin\Desktop\munchies-backend\munchies-backend\BLL\bin\Debug\AutoMapper.dll
+C:\Users\Admin\Desktop\munchies-backend\munchies-backend\BLL\bin\Debug\AutoMapper.xml

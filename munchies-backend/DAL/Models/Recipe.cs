@@ -22,7 +22,9 @@ namespace DAL.Models
         public string DescriptionRestaurant { get; set; }
         public string DescriptionCustomer { get; set; }
         public string Category { get; set; }
-        public int price { get; set; } 
+        public int price { get; set; }
         public string videoPath { get; set; }
+
+        public Guid? Brand_Id { get; set; }
     }
 }

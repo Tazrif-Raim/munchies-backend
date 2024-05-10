@@ -71,3 +71,8 @@ C:\Users\Admin\Desktop\munchies-backend\munchies-backend\munchies-backend\obj\De
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\munchies-backend\obj\Debug\munchies-backend.csproj.CopyComplete
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\munchies-backend\obj\Debug\munchies-backend.dll
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\munchies-backend\obj\Debug\munchies-backend.pdb
+C:\Users\Admin\Desktop\munchies-backend\munchies-backend\munchies-backend\bin\DAL.dll
+C:\Users\Admin\Desktop\munchies-backend\munchies-backend\munchies-backend\bin\AutoMapper.dll
+C:\Users\Admin\Desktop\munchies-backend\munchies-backend\munchies-backend\bin\DAL.pdb
+C:\Users\Admin\Desktop\munchies-backend\munchies-backend\munchies-backend\bin\DAL.dll.config
+C:\Users\Admin\Desktop\munchies-backend\munchies-backend\munchies-backend\bin\AutoMapper.xml
