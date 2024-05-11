@@ -25,19 +25,5 @@ namespace DAL
         {
             return new IngredientRepo();
         }
-        public static IRepo<Resturant, int, Resturant> ResturantData()
-        {
-            return new ResturantRepo();
-        }
-        public static IRepo<Order, int, Order> OrderData()
-        {
-            return new OrderRepo();
-        }
-        public static IRepo<User, String, User> UserData()
-        {
-            return new UserRepo();
-        }
-
     }
-
 }

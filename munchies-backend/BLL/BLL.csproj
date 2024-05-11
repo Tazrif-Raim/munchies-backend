@@ -35,7 +35,6 @@
       <HintPath>..\packages\AutoMapper.10.0.0\lib\net461\AutoMapper.dll</HintPath>
     </Reference>
     <Reference Include="System" />
-    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -49,17 +48,10 @@
     <Compile Include="DTOs\BrandDTO.cs" />
     <Compile Include="DTOs\BrandRecipeDTO.cs" />
     <Compile Include="DTOs\IngredientDTO.cs" />
-    <Compile Include="DTOs\OrderDTO.cs" />
     <Compile Include="DTOs\RecipeDTO.cs" />
-    <Compile Include="DTOs\ResturantDTO.cs" />
-    <Compile Include="DTOs\UserDTO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\BrandService.cs" />
-<<<<<<< Updated upstream
     <Compile Include="Services\RecipeService.cs" />
-=======
-    <Compile Include="Services\ResturantService.cs" />
->>>>>>> Stashed changes
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DAL\DAL.csproj">
