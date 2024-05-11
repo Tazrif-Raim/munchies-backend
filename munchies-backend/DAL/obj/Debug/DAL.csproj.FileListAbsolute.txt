@@ -7,9 +7,10 @@ C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\bin\Debug\EntityFra
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.csproj.CopyComplete
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.dll
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.pdb
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.Migrations.added_Ingrdients_Recipes_Brands_Tables.resources
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.Migrations.added_column_Brand_Id_to_Recipe.resources
+C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.Migrations.fixed_brand_foreign_key_in_Recipe.resources

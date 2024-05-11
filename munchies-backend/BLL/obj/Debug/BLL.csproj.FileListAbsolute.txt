@@ -7,8 +7,8 @@ C:\Users\Admin\Desktop\munchies-backend\munchies-backend\BLL\bin\Debug\DAL.dll.c
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\BLL\bin\Debug\EntityFramework.xml
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Desktop\munchies-backend\munchies-backend\BLL\obj\Debug\BLL.csproj.CopyComplete
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\BLL\obj\Debug\BLL.dll
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\BLL\obj\Debug\BLL.pdb
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\BLL\bin\Debug\AutoMapper.dll
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\BLL\bin\Debug\AutoMapper.xml
+C:\Users\Admin\Desktop\munchies-backend\munchies-backend\BLL\obj\Debug\BLL.csproj.Up2Date

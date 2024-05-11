@@ -68,7 +68,6 @@ C:\Users\Admin\Desktop\munchies-backend\munchies-backend\munchies-backend\bin\Sy
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\munchies-backend\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\munchies-backend\obj\Debug\munchies-backend.csproj.AssemblyReference.cache
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\munchies-backend\obj\Debug\munchies-backend.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Desktop\munchies-backend\munchies-backend\munchies-backend\obj\Debug\munchies-backend.csproj.CopyComplete
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\munchies-backend\obj\Debug\munchies-backend.dll
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\munchies-backend\obj\Debug\munchies-backend.pdb
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\munchies-backend\bin\DAL.dll
@@ -76,3 +75,4 @@ C:\Users\Admin\Desktop\munchies-backend\munchies-backend\munchies-backend\bin\Au
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\munchies-backend\bin\DAL.pdb
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\munchies-backend\bin\DAL.dll.config
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\munchies-backend\bin\AutoMapper.xml
+C:\Users\Admin\Desktop\munchies-backend\munchies-backend\munchies-backend\obj\Debug\munchies.31630A19.Up2Date

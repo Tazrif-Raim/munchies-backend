@@ -34,7 +34,7 @@ namespace BLL.Services
             var cfg = new MapperConfiguration(c =>
             {
                 c.CreateMap<Brand, BrandDTO>();
-                //c.CreateMap<Brand, BrandRecipeDTO>();
+                c.CreateMap<Brand, BrandRecipeDTO>();
                 c.CreateMap<Recipe, RecipeDTO>();
                 c.CreateMap<Ingredient, IngredientDTO>();
             });
@@ -60,9 +60,24 @@ namespace BLL.Services
             DataAccessFactory.BrandData().Create(mapped);
         }
 
-        public static void setRecipe(Guid Id, List<RecipeDTO> recipes)
+        public static void setBrandRecipe(BrandRecipeDTO brandRecipe)
         {
+            if(brandRecipe.Id == Guid.Empty || brandRecipe.Id == null)
+            {
+                brandRecipe.Id = Guid.NewGuid();
+            }
 
+            var cfg = new MapperConfiguration(c =>
+            {
+                c.CreateMap<BrandRecipeDTO, Brand>();
+                c.CreateMap<RecipeDTO, Recipe>();
+                c.CreateMap<IngredientDTO, Ingredient>();
+            });
+
+            var mapper = new Mapper(cfg);
+            var mapped = mapper.Map<Brand>(brandRecipe);
+
+            DataAccessFactory.BrandData().Update(mapped);
         }
     }
 }

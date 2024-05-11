@@ -25,6 +25,8 @@ namespace DAL.Models
         public int price { get; set; }
         public string videoPath { get; set; }
 
+        [ForeignKey("Brand")]
         public Guid? Brand_Id { get; set; }
+        public virtual Brand Brand { get; set; }
     }
 }

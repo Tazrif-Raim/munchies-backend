@@ -17,7 +17,7 @@ namespace BLL.DTOs
         public string Category { get; set; }
         public int price { get; set; }
         public string videoPath { get; set; }
-        public string Brand_Id { get; set; }
+        public Guid Brand_Id { get; set; }
 
     }
 }
