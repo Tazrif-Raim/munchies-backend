@@ -11,6 +11,24 @@ C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.dll
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.pdb
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.Migrations.added_Ingrdients_Recipes_Brands_Tables.resources
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+<<<<<<< Updated upstream
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.Migrations.added_column_Brand_Id_to_Recipe.resources
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.csproj.Up2Date
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.Migrations.fixed_brand_foreign_key_in_Recipe.resources
+=======
+D:\AIUB\Aiub 9th Semester\.Net\munchies-backend\munchies-backend\DAL\bin\Debug\DAL.dll.config
+D:\AIUB\Aiub 9th Semester\.Net\munchies-backend\munchies-backend\DAL\bin\Debug\DAL.dll
+D:\AIUB\Aiub 9th Semester\.Net\munchies-backend\munchies-backend\DAL\bin\Debug\DAL.pdb
+D:\AIUB\Aiub 9th Semester\.Net\munchies-backend\munchies-backend\DAL\bin\Debug\EntityFramework.dll
+D:\AIUB\Aiub 9th Semester\.Net\munchies-backend\munchies-backend\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\AIUB\Aiub 9th Semester\.Net\munchies-backend\munchies-backend\DAL\bin\Debug\EntityFramework.xml
+D:\AIUB\Aiub 9th Semester\.Net\munchies-backend\munchies-backend\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\AIUB\Aiub 9th Semester\.Net\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\AIUB\Aiub 9th Semester\.Net\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.Migrations.added_Ingrdients_Recipes_Brands_Tables.resources
+D:\AIUB\Aiub 9th Semester\.Net\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\AIUB\Aiub 9th Semester\.Net\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\AIUB\Aiub 9th Semester\.Net\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\AIUB\Aiub 9th Semester\.Net\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.dll
+D:\AIUB\Aiub 9th Semester\.Net\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.pdb
+D:\AIUB\Aiub 9th Semester\.Net\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.Migrations.intiDB.resources
+>>>>>>> Stashed changes
