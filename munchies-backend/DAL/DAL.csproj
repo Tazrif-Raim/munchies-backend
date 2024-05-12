@@ -65,13 +65,8 @@
     <Compile Include="Migrations\202405102356581_fixed_brand_foreign_key_in_Recipe.Designer.cs">
       <DependentUpon>202405102356581_fixed_brand_foreign_key_in_Recipe.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202405121118337_DeliveryBoyProfileDB.cs" />
-    <Compile Include="Migrations\202405121118337_DeliveryBoyProfileDB.designer.cs">
-      <DependentUpon>202405121118337_DeliveryBoyProfileDB.cs</DependentUpon>
-    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Brand.cs" />
-    <Compile Include="Models\DeliveryBoyProfile.cs" />
     <Compile Include="Models\Ingredient.cs" />
     <Compile Include="Models\MunchiesDbContext.cs" />
     <Compile Include="Models\Recipe.cs" />
@@ -95,9 +90,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202405102356581_fixed_brand_foreign_key_in_Recipe.resx">
       <DependentUpon>202405102356581_fixed_brand_foreign_key_in_Recipe.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202405121118337_DeliveryBoyProfileDB.resx">
-      <DependentUpon>202405121118337_DeliveryBoyProfileDB.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
