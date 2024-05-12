@@ -12,3 +12,17 @@ C:\Users\Admin\Desktop\munchies-backend\munchies-backend\BLL\obj\Debug\BLL.pdb
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\BLL\bin\Debug\AutoMapper.dll
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\BLL\bin\Debug\AutoMapper.xml
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\AIUB\Aiub 9th Semester\.Net\munchies-backend\munchies-backend\BLL\bin\Debug\BLL.dll
+D:\AIUB\Aiub 9th Semester\.Net\munchies-backend\munchies-backend\BLL\bin\Debug\BLL.pdb
+D:\AIUB\Aiub 9th Semester\.Net\munchies-backend\munchies-backend\BLL\bin\Debug\AutoMapper.dll
+D:\AIUB\Aiub 9th Semester\.Net\munchies-backend\munchies-backend\BLL\bin\Debug\DAL.dll
+D:\AIUB\Aiub 9th Semester\.Net\munchies-backend\munchies-backend\BLL\bin\Debug\EntityFramework.dll
+D:\AIUB\Aiub 9th Semester\.Net\munchies-backend\munchies-backend\BLL\bin\Debug\DAL.pdb
+D:\AIUB\Aiub 9th Semester\.Net\munchies-backend\munchies-backend\BLL\bin\Debug\DAL.dll.config
+D:\AIUB\Aiub 9th Semester\.Net\munchies-backend\munchies-backend\BLL\bin\Debug\AutoMapper.xml
+D:\AIUB\Aiub 9th Semester\.Net\munchies-backend\munchies-backend\BLL\bin\Debug\EntityFramework.xml
+D:\AIUB\Aiub 9th Semester\.Net\munchies-backend\munchies-backend\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\AIUB\Aiub 9th Semester\.Net\munchies-backend\munchies-backend\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\AIUB\Aiub 9th Semester\.Net\munchies-backend\munchies-backend\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\AIUB\Aiub 9th Semester\.Net\munchies-backend\munchies-backend\BLL\obj\Debug\BLL.dll
+D:\AIUB\Aiub 9th Semester\.Net\munchies-backend\munchies-backend\BLL\obj\Debug\BLL.pdb
