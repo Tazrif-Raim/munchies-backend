@@ -49,10 +49,14 @@
     <Compile Include="DTOs\BrandRecipeDTO.cs" />
     <Compile Include="DTOs\DeliveryBoyProfileDTO.cs" />
     <Compile Include="DTOs\IngredientDTO.cs" />
+    <Compile Include="DTOs\MealDTO.cs" />
+    <Compile Include="DTOs\ProfileDTO.cs" />
     <Compile Include="DTOs\RecipeDTO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\BrandService.cs" />
     <Compile Include="Services\DeliveryBoyProfileService.cs" />
+    <Compile Include="Services\MealService.cs" />
+    <Compile Include="Services\ProfileService.cs" />
     <Compile Include="Services\RecipeService.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -69,16 +69,24 @@
     <Compile Include="Migrations\202405121529255_added_deliveryBoyProfile.Designer.cs">
       <DependentUpon>202405121529255_added_deliveryBoyProfile.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202405121548447_added_customerProfile_and_Meal.cs" />
+    <Compile Include="Migrations\202405121548447_added_customerProfile_and_Meal.Designer.cs">
+      <DependentUpon>202405121548447_added_customerProfile_and_Meal.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Brand.cs" />
     <Compile Include="Models\DeliveryBoyProfile.cs" />
     <Compile Include="Models\Ingredient.cs" />
+    <Compile Include="Models\Meal.cs" />
     <Compile Include="Models\MunchiesDbContext.cs" />
+    <Compile Include="Models\Profile.cs" />
     <Compile Include="Models\Recipe.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repos\BrandRepo.cs" />
     <Compile Include="Repos\DeliveryBoyProfileRepo.cs" />
     <Compile Include="Repos\IngredientRepo.cs" />
+    <Compile Include="Repos\MealRepo.cs" />
+    <Compile Include="Repos\ProfileRepo.cs" />
     <Compile Include="Repos\RecipeRepo.cs" />
     <Compile Include="Repos\Repo.cs" />
   </ItemGroup>
@@ -99,6 +107,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202405121529255_added_deliveryBoyProfile.resx">
       <DependentUpon>202405121529255_added_deliveryBoyProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202405121548447_added_customerProfile_and_Meal.resx">
+      <DependentUpon>202405121548447_added_customerProfile_and_Meal.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -30,5 +30,15 @@ namespace DAL
         {
             return new DeliveryBoyProfileRepo();
         }
+
+        public static IRepo<Meal, int, Meal> MealData()
+        {
+            return new MealRepo();
+        }
+
+        public static IRepo<Profile, int, Profile> ProfileData()
+        {
+            return new ProfileRepo();
+        }
     }
 }

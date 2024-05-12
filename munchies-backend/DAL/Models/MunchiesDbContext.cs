@@ -12,7 +12,8 @@ namespace DAL.Models
         public DbSet<Ingredient> Ingredients { get; set; }
         public DbSet<Recipe> Recipes { get; set; }
         public DbSet<Brand> Brands { get; set; }
-
         public DbSet<DeliveryBoyProfile> DeliveryBoyProfiles { get; set; }
+        public DbSet<Meal> Meals { get; set; }
+        public DbSet<Profile> Profiles { get; set; }
     }
 }

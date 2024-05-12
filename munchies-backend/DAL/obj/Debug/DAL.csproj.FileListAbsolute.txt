@@ -15,3 +15,4 @@ C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.Migra
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.csproj.Up2Date
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.Migrations.fixed_brand_foreign_key_in_Recipe.resources
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.Migrations.added_deliveryBoyProfile.resources
+C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.Migrations.added_customerProfile_and_Meal.resources
