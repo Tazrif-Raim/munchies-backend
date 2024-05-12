@@ -25,10 +25,5 @@ namespace DAL
         {
             return new IngredientRepo();
         }
-
-        public static IRepo<DeliveryBoyProfile,int,DeliveryBoyProfile>DeliveryBoyProfileData()
-        {
-            return new DeliveryBoyProfileRepo();
-        }
     }
 }

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DAL.Models
 {
-    public class DeliveryBoyProfile
+    internal class DeliveryBoyProfile
     {
         [Key]
         public int Id { get; set; }  // Primary key

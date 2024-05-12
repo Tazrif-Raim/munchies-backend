@@ -77,7 +77,6 @@
     <Compile Include="Models\Recipe.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repos\BrandRepo.cs" />
-    <Compile Include="Repos\DeliveryBoyProfileRepo.cs" />
     <Compile Include="Repos\IngredientRepo.cs" />
     <Compile Include="Repos\RecipeRepo.cs" />
     <Compile Include="Repos\Repo.cs" />
