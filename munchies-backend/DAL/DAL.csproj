@@ -65,13 +65,19 @@
     <Compile Include="Migrations\202405102356581_fixed_brand_foreign_key_in_Recipe.Designer.cs">
       <DependentUpon>202405102356581_fixed_brand_foreign_key_in_Recipe.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202405121529255_added_deliveryBoyProfile.cs" />
+    <Compile Include="Migrations\202405121529255_added_deliveryBoyProfile.Designer.cs">
+      <DependentUpon>202405121529255_added_deliveryBoyProfile.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Brand.cs" />
+    <Compile Include="Models\DeliveryBoyProfile.cs" />
     <Compile Include="Models\Ingredient.cs" />
     <Compile Include="Models\MunchiesDbContext.cs" />
     <Compile Include="Models\Recipe.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repos\BrandRepo.cs" />
+    <Compile Include="Repos\DeliveryBoyProfileRepo.cs" />
     <Compile Include="Repos\IngredientRepo.cs" />
     <Compile Include="Repos\RecipeRepo.cs" />
     <Compile Include="Repos\Repo.cs" />
@@ -90,6 +96,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202405102356581_fixed_brand_foreign_key_in_Recipe.resx">
       <DependentUpon>202405102356581_fixed_brand_foreign_key_in_Recipe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202405121529255_added_deliveryBoyProfile.resx">
+      <DependentUpon>202405121529255_added_deliveryBoyProfile.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
