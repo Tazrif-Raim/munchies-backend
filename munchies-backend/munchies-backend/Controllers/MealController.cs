@@ -12,7 +12,7 @@ namespace DealFoods.Controllers
     public class MealController : ApiController
     {
         /*[HttpGet]
-        [Route("api/meals")]
+        [Route("api/meal")]
         public HttpResponseMessage Get()
         {
             try
@@ -46,6 +46,21 @@ namespace DealFoods.Controllers
             var data = MealService.Get();
             return Request.CreateResponse(HttpStatusCode.OK, data);
 
+        }
+        [HttpPut]
+        [Route("api/meal/update/{id}")]
+        public HttpResponseMessage Update(int id, MealDTO s)
+        {
+            MealService.Update(id, s);
+            return Request.CreateResponse(HttpStatusCode.OK);
+        }
+
+        [HttpDelete]
+        [Route("api/meal/delete/{id}")]
+        public HttpResponseMessage Delete(int id)
+        {
+            MealService.Delete(id);
+            return Request.CreateResponse(HttpStatusCode.OK);
         }
     }
 }

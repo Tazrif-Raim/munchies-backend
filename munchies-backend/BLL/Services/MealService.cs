@@ -63,5 +63,21 @@ namespace BLL.Services
             return mapper.Map<List<MealDTO>>(data);
 
         }
+        public static void Update(int id, MealDTO updatedMeal)
+        {
+            var config = new MapperConfiguration(cfg =>
+            {
+                cfg.CreateMap<MealDTO, Meal>();
+            });
+            var mapper = new Mapper(config);
+            var updatedMealEntity = mapper.Map<Meal>(updatedMeal);
+            updatedMealEntity.Id = id; // Ensure the ID is set for the correct meal to update
+            DataAccessFactory.MealData().Update(updatedMealEntity);
+        }
+
+        public static void Delete(int id)
+        {
+            DataAccessFactory.MealData().Delete(id);
+        }
     }
 }

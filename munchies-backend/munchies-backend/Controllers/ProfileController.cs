@@ -36,5 +36,20 @@ namespace munchies_backend.Controllers
             return Request.CreateResponse(HttpStatusCode.OK, data);
 
         }
+        [HttpPut]
+        [Route("api/profile/update/{id}")]
+        public HttpResponseMessage Update(int id, ProfileDTO s)
+        {
+            BLL.Services.ProfileService.Update(id, s);
+            return Request.CreateResponse(HttpStatusCode.OK);
+        }
+
+        [HttpDelete]
+        [Route("api/profile/delete/{id}")]
+        public HttpResponseMessage Delete(int id)
+        {
+            BLL.Services.ProfileService.Delete(id);
+            return Request.CreateResponse(HttpStatusCode.OK);
+        }
     }
 }

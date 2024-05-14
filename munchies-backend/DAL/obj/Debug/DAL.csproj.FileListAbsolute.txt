@@ -16,3 +16,8 @@ C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.cspro
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.Migrations.fixed_brand_foreign_key_in_Recipe.resources
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.Migrations.added_deliveryBoyProfile.resources
 C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.Migrations.added_customerProfile_and_Meal.resources
+C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.Migrations.added_ChatProfile_ServerPass.resources
+C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.Migrations.remove_db_gen_id_chatuser.resources
+C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.Migrations.chatUserPK.resources
+C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.Migrations.str_pk_chat.resources
+C:\Users\Admin\Desktop\munchies-backend\munchies-backend\DAL\obj\Debug\DAL.Migrations.added_reviews.resources

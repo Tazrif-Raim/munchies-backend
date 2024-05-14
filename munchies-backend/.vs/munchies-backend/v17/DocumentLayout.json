@@ -3,112 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\bll\\dtos\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67D952EC-D3A8-4344-8257-60E66C8495C1}|munchies-backend\\munchies-backend.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{67D952EC-D3A8-4344-8257-60E66C8495C1}|munchies-backend\\munchies-backend.csproj|solutionrelative:munchies-backend\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\bll\\dtos\\ingredientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\ingredientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|c:\\users\\admin\\desktop\\munchies-backend\\munchies-backend\\dal\\repos\\reviewrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\reviewrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\bll\\dtos\\recipedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\recipedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\bll\\dtos\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\bll\\dtos\\mealdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\mealdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|c:\\users\\admin\\desktop\\munchies-backend\\munchies-backend\\dal\\models\\munchiesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\models\\munchiesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67D952EC-D3A8-4344-8257-60E66C8495C1}|munchies-backend\\munchies-backend.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D952EC-D3A8-4344-8257-60E66C8495C1}|munchies-backend\\munchies-backend.csproj|solutionrelative:munchies-backend\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\migrations\\202405141429288_added_reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202405141429288_added_reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{67D952EC-D3A8-4344-8257-60E66C8495C1}|munchies-backend\\munchies-backend.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67D952EC-D3A8-4344-8257-60E66C8495C1}|munchies-backend\\munchies-backend.csproj|solutionrelative:munchies-backend\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\models\\meal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\models\\meal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67D952EC-D3A8-4344-8257-60E66C8495C1}|munchies-backend\\munchies-backend.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\controllers\\mealcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D952EC-D3A8-4344-8257-60E66C8495C1}|munchies-backend\\munchies-backend.csproj|solutionrelative:munchies-backend\\controllers\\mealcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\bll\\services\\mealservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|solutionrelative:bll\\services\\mealservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67D952EC-D3A8-4344-8257-60E66C8495C1}|munchies-backend\\munchies-backend.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D952EC-D3A8-4344-8257-60E66C8495C1}|munchies-backend\\munchies-backend.csproj|solutionrelative:munchies-backend\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\bll\\services\\profileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|solutionrelative:bll\\services\\profileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\repos\\mealrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\mealrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\bll\\services\\mealservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|solutionrelative:bll\\services\\mealservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67D952EC-D3A8-4344-8257-60E66C8495C1}|munchies-backend\\munchies-backend.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\controllers\\mealcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67D952EC-D3A8-4344-8257-60E66C8495C1}|munchies-backend\\munchies-backend.csproj|solutionrelative:munchies-backend\\controllers\\mealcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\bll\\dtos\\deliveryboyprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\deliveryboyprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\models\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\models\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\migrations\\202405101449523_added_column_brand_id_to_recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202405101449523_added_column_brand_id_to_recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\migrations\\202405121548447_added_customerprofile_and_meal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202405121548447_added_customerprofile_and_meal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\bll\\services\\recipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|solutionrelative:bll\\services\\recipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\models\\deliveryboyprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\models\\deliveryboyprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\repos\\profilerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\profilerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\models\\munchiesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\models\\munchiesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\repos\\reciperepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\reciperepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\bll\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|solutionrelative:bll\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67D952EC-D3A8-4344-8257-60E66C8495C1}|munchies-backend\\munchies-backend.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D952EC-D3A8-4344-8257-60E66C8495C1}|munchies-backend\\munchies-backend.csproj|solutionrelative:munchies-backend\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\bll\\services\\deliveryboyprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|solutionrelative:bll\\services\\deliveryboyprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67D952EC-D3A8-4344-8257-60E66C8495C1}|munchies-backend\\munchies-backend.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\models\\transactionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D952EC-D3A8-4344-8257-60E66C8495C1}|munchies-backend\\munchies-backend.csproj|solutionrelative:munchies-backend\\models\\transactionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\bll\\services\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|solutionrelative:bll\\services\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\repos\\deliveryboyprofilerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\deliveryboyprofilerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67D952EC-D3A8-4344-8257-60E66C8495C1}|munchies-backend\\munchies-backend.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\controllers\\deliveryboyprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67D952EC-D3A8-4344-8257-60E66C8495C1}|munchies-backend\\munchies-backend.csproj|solutionrelative:munchies-backend\\controllers\\deliveryboyprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\migrations\\202405121529255_added_deliveryboyprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202405121529255_added_deliveryboyprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67D952EC-D3A8-4344-8257-60E66C8495C1}|munchies-backend\\munchies-backend.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D952EC-D3A8-4344-8257-60E66C8495C1}|munchies-backend\\munchies-backend.csproj|solutionrelative:munchies-backend\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{67D952EC-D3A8-4344-8257-60E66C8495C1}|munchies-backend\\munchies-backend.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -119,20 +79,160 @@
       "RelativeMoniker": "D:0:0:{67D952EC-D3A8-4344-8257-60E66C8495C1}|munchies-backend\\munchies-backend.csproj|solutionrelative:munchies-backend\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{67D952EC-D3A8-4344-8257-60E66C8495C1}|munchies-backend\\munchies-backend.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\controllers\\deliveryboyprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D952EC-D3A8-4344-8257-60E66C8495C1}|munchies-backend\\munchies-backend.csproj|solutionrelative:munchies-backend\\controllers\\deliveryboyprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\repos\\serverpassrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\serverpassrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\repos\\chatuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\chatuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\models\\chatuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\models\\chatuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\bll\\services\\chatuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|solutionrelative:bll\\services\\chatuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\bll\\services\\deliveryboyprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|solutionrelative:bll\\services\\deliveryboyprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\bll\\dtos\\chatprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\chatprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\bll\\dtos\\chatlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\chatlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\migrations\\202405131657169_str_pk_chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202405131657169_str_pk_chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\bll\\services\\recipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|solutionrelative:bll\\services\\recipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\repos\\deliveryboyprofilerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\deliveryboyprofilerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\models\\deliveryboyprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\models\\deliveryboyprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\models\\serverpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\models\\serverpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\models\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\models\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\models\\meal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\models\\meal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\bll\\dtos\\deliveryboyprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\deliveryboyprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\migrations\\202405131632020_chatuserpk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202405131632020_chatuserpk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\bll\\dtos\\passchangedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\passchangedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\migrations\\202405131617560_remove_db_gen_id_chatuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202405131617560_remove_db_gen_id_chatuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\repos\\profilerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\profilerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\repos\\reciperepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\reciperepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\repos\\ingredientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\ingredientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67D952EC-D3A8-4344-8257-60E66C8495C1}|munchies-backend\\munchies-backend.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{67D952EC-D3A8-4344-8257-60E66C8495C1}|munchies-backend\\munchies-backend.csproj|solutionrelative:munchies-backend\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\repos\\mealrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\mealrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\bll\\services\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|solutionrelative:bll\\services\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\bll\\dtos\\ingredientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\ingredientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\bll\\dtos\\mealdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\mealdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\bll\\dtos\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\bll\\dtos\\recipedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\recipedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\migrations\\202405131554025_added_chatprofile_serverpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202405131554025_added_chatprofile_serverpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\repos\\brandrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\brandrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\migrations\\202405101449523_added_column_brand_id_to_recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202405101449523_added_column_brand_id_to_recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\migrations\\202405121548447_added_customerprofile_and_meal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202405121548447_added_customerprofile_and_meal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\migrations\\202405121529255_added_deliveryboyprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202405121529255_added_deliveryboyprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\bll\\dtos\\brandrecipedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -147,24 +247,12 @@
       "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202405102356581_fixed_brand_foreign_key_in_recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\migrations\\202404300147246_added_ingrdients_recipes_brands_tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202404300147246_added_ingrdients_recipes_brands_tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46A09DAF-9F59-4CC7-8C33-B1653FC44DA8}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D852769-E5CD-4492-B478-74415BA0DE8B}|BLL\\BLL.csproj|C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -182,156 +270,129 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Meal.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Models\\Meal.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\Meal.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Models\\Meal.cs",
-              "RelativeToolTip": "DAL\\Models\\Meal.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAFAAAA",
+              "DocumentIndex": 8,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "munchies-backend\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "munchies-backend\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T15:37:36.564Z"
+              "WhenOpened": "2024-05-13T13:33:11.297Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MealDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\DTOs\\MealDTO.cs",
-              "RelativeDocumentMoniker": "BLL\\DTOs\\MealDTO.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\DTOs\\MealDTO.cs",
-              "RelativeToolTip": "BLL\\DTOs\\MealDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T15:38:53.359Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DeliveryBoyProfileDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\DTOs\\DeliveryBoyProfileDTO.cs",
-              "RelativeDocumentMoniker": "BLL\\DTOs\\DeliveryBoyProfileDTO.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\DTOs\\DeliveryBoyProfileDTO.cs",
-              "RelativeToolTip": "BLL\\DTOs\\DeliveryBoyProfileDTO.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAuwBMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T15:25:15.386Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProfileDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\DTOs\\ProfileDTO.cs",
-              "RelativeDocumentMoniker": "BLL\\DTOs\\ProfileDTO.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\DTOs\\ProfileDTO.cs",
-              "RelativeToolTip": "BLL\\DTOs\\ProfileDTO.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T15:40:58.303Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "MealController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\Controllers\\MealController.cs",
               "RelativeDocumentMoniker": "munchies-backend\\Controllers\\MealController.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\Controllers\\MealController.cs",
               "RelativeToolTip": "munchies-backend\\Controllers\\MealController.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAA1wDMAAAAAAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwEIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-12T15:38:26.343Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "munchies-backend\\Controllers\\ReviewController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "munchies-backend\\Controllers\\ReviewController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:26:31.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\Services\\ReviewService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\ReviewService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\Services\\ReviewService.cs",
+              "RelativeToolTip": "BLL\\Services\\ReviewService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:27:37.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ProfileController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\Controllers\\ProfileController.cs",
               "RelativeDocumentMoniker": "munchies-backend\\Controllers\\ProfileController.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\Controllers\\ProfileController.cs",
               "RelativeToolTip": "munchies-backend\\Controllers\\ProfileController.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAQwCYAAAAFAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwDYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-12T15:40:34.659Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MealRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Repos\\MealRepo.cs",
-              "RelativeDocumentMoniker": "DAL\\Repos\\MealRepo.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Repos\\MealRepo.cs",
-              "RelativeToolTip": "DAL\\Repos\\MealRepo.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAcwDsAAAAMAAAA",
+              "DocumentIndex": 3,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Models\\Review.cs",
+              "RelativeToolTip": "DAL\\Models\\Review.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA3wB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T15:39:17.313Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MunchiesDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Models\\MunchiesDbContext.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\MunchiesDbContext.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Models\\MunchiesDbContext.cs",
-              "RelativeToolTip": "DAL\\Models\\MunchiesDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T11:23:20.472Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IngredientDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\DTOs\\IngredientDTO.cs",
-              "RelativeDocumentMoniker": "BLL\\DTOs\\IngredientDTO.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\DTOs\\IngredientDTO.cs",
-              "RelativeToolTip": "BLL\\DTOs\\IngredientDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T05:01:44.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T14:25:54.36Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "RecipeDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\DTOs\\RecipeDTO.cs",
-              "RelativeDocumentMoniker": "BLL\\DTOs\\RecipeDTO.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\DTOs\\RecipeDTO.cs",
-              "RelativeToolTip": "BLL\\DTOs\\RecipeDTO.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAATAAAA",
+              "Title": "ReviewDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\DTOs\\ReviewDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\ReviewDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\DTOs\\ReviewDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\ReviewDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T05:02:02.272Z",
+              "WhenOpened": "2024-05-14T14:26:51.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReviewRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Repos\\ReviewRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\ReviewRepo.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Repos\\ReviewRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\ReviewRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:27:18.844Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\Web.config",
+              "RelativeDocumentMoniker": "munchies-backend\\Web.config",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\Web.config",
+              "RelativeToolTip": "munchies-backend\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-27T10:51:59.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ProfileService.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\Services\\ProfileService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\ProfileService.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\Services\\ProfileService.cs",
               "RelativeToolTip": "BLL\\Services\\ProfileService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-12T15:41:41.873Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Profile.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Models\\Profile.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\Profile.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Models\\Profile.cs",
-              "RelativeToolTip": "DAL\\Models\\Profile.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAA8wCwAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T15:40:02.263Z"
             },
             {
               "$type": "Bookmark",
@@ -339,236 +400,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "MealService.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\Services\\MealService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\MealService.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\Services\\MealService.cs",
               "RelativeToolTip": "BLL\\Services\\MealService.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAQwEMAAAAAAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAowFMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-12T15:39:38.191Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "202405101449523_added_column_Brand_Id_to_Recipe.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Migrations\\202405101449523_added_column_Brand_Id_to_Recipe.cs",
-              "RelativeDocumentMoniker": "DAL\\Migrations\\202405101449523_added_column_Brand_Id_to_Recipe.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Migrations\\202405101449523_added_column_Brand_Id_to_Recipe.cs",
-              "RelativeToolTip": "DAL\\Migrations\\202405101449523_added_column_Brand_Id_to_Recipe.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABBAAAA",
+              "DocumentIndex": 11,
+              "Title": "MunchiesDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Models\\MunchiesDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\MunchiesDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Models\\MunchiesDbContext.cs",
+              "RelativeToolTip": "DAL\\Models\\MunchiesDbContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwBMAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T14:49:56.851Z"
+              "WhenOpened": "2024-04-27T11:23:20.472Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "RecipeService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\Services\\RecipeService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\RecipeService.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\Services\\RecipeService.cs",
-              "RelativeToolTip": "BLL\\Services\\RecipeService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T09:52:28.977Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "DeliveryBoyProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Models\\DeliveryBoyProfile.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\DeliveryBoyProfile.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Models\\DeliveryBoyProfile.cs",
-              "RelativeToolTip": "DAL\\Models\\DeliveryBoyProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T15:24:08.588Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ProfileRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Repos\\ProfileRepo.cs",
-              "RelativeDocumentMoniker": "DAL\\Repos\\ProfileRepo.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Repos\\ProfileRepo.cs",
-              "RelativeToolTip": "DAL\\Repos\\ProfileRepo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T15:41:19.224Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "202405121548447_added_customerProfile_and_Meal.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Migrations\\202405121548447_added_customerProfile_and_Meal.cs",
-              "RelativeDocumentMoniker": "DAL\\Migrations\\202405121548447_added_customerProfile_and_Meal.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Migrations\\202405121548447_added_customerProfile_and_Meal.cs",
-              "RelativeToolTip": "DAL\\Migrations\\202405121548447_added_customerProfile_and_Meal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T15:48:49.33Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 12,
               "Title": "DataAccessFactory.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\DataAccessFactory.cs",
               "RelativeDocumentMoniker": "DAL\\DataAccessFactory.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\DataAccessFactory.cs",
               "RelativeToolTip": "DAL\\DataAccessFactory.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAIwCkAAAAJAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwDgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-27T12:26:56.609Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "RecipeRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Repos\\RecipeRepo.cs",
-              "RelativeDocumentMoniker": "DAL\\Repos\\RecipeRepo.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Repos\\RecipeRepo.cs",
-              "RelativeToolTip": "DAL\\Repos\\RecipeRepo.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T04:32:22.381Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Repo.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Repos\\Repo.cs",
-              "RelativeDocumentMoniker": "DAL\\Repos\\Repo.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Repos\\Repo.cs",
-              "RelativeToolTip": "DAL\\Repos\\Repo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T11:58:19.851Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "DeliveryBoyProfileService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\Services\\DeliveryBoyProfileService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\DeliveryBoyProfileService.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\Services\\DeliveryBoyProfileService.cs",
-              "RelativeToolTip": "BLL\\Services\\DeliveryBoyProfileService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T15:25:50.44Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "BrandService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\Services\\BrandService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\BrandService.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\Services\\BrandService.cs",
-              "RelativeToolTip": "BLL\\Services\\BrandService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T05:55:43.253Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "DeliveryBoyProfileRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Repos\\DeliveryBoyProfileRepo.cs",
-              "RelativeDocumentMoniker": "DAL\\Repos\\DeliveryBoyProfileRepo.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Repos\\DeliveryBoyProfileRepo.cs",
-              "RelativeToolTip": "DAL\\Repos\\DeliveryBoyProfileRepo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T15:26:18.604Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "DeliveryBoyProfileController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\Controllers\\DeliveryBoyProfileController.cs",
-              "RelativeDocumentMoniker": "munchies-backend\\Controllers\\DeliveryBoyProfileController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\Controllers\\DeliveryBoyProfileController.cs",
-              "RelativeToolTip": "munchies-backend\\Controllers\\DeliveryBoyProfileController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T15:27:23.321Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "202405121529255_added_deliveryBoyProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Migrations\\202405121529255_added_deliveryBoyProfile.cs",
-              "RelativeDocumentMoniker": "DAL\\Migrations\\202405121529255_added_deliveryBoyProfile.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Migrations\\202405121529255_added_deliveryBoyProfile.cs",
-              "RelativeToolTip": "DAL\\Migrations\\202405121529255_added_deliveryBoyProfile.cs",
+              "DocumentIndex": 5,
+              "Title": "202405141429288_added_reviews.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Migrations\\202405141429288_added_reviews.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202405141429288_added_reviews.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Migrations\\202405141429288_added_reviews.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202405141429288_added_reviews.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T15:29:30.15Z"
+              "WhenOpened": "2024-05-14T14:29:33.467Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "IRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Interfaces\\IRepo.cs",
-              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRepo.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Interfaces\\IRepo.cs",
-              "RelativeToolTip": "DAL\\Interfaces\\IRepo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "DocumentIndex": 14,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "munchies-backend\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "munchies-backend\\Controllers\\PaymentController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwCgAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T04:53:05.313Z"
+              "WhenOpened": "2024-05-14T12:10:54.491Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "RecipeController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\Controllers\\RecipeController.cs",
-              "RelativeDocumentMoniker": "munchies-backend\\Controllers\\RecipeController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\Controllers\\RecipeController.cs",
-              "RelativeToolTip": "munchies-backend\\Controllers\\RecipeController.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAgwD4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T10:00:28.113Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "BrandRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Repos\\BrandRepo.cs",
-              "RelativeDocumentMoniker": "DAL\\Repos\\BrandRepo.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Repos\\BrandRepo.cs",
-              "RelativeToolTip": "DAL\\Repos\\BrandRepo.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAwCoAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T04:14:11.702Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\Web.config",
-              "RelativeDocumentMoniker": "munchies-backend\\Web.config",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\Web.config",
-              "RelativeToolTip": "munchies-backend\\Web.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-04-27T10:51:59.849Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "IngredientRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Repos\\IngredientRepo.cs",
-              "RelativeDocumentMoniker": "DAL\\Repos\\IngredientRepo.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Repos\\IngredientRepo.cs",
-              "RelativeToolTip": "DAL\\Repos\\IngredientRepo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T03:47:00.251Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 18,
               "Title": "BrandController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\Controllers\\BrandController.cs",
               "RelativeDocumentMoniker": "munchies-backend\\Controllers\\BrandController.cs",
@@ -580,43 +472,211 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Recipe.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Models\\Recipe.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\Recipe.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Models\\Recipe.cs",
-              "RelativeToolTip": "DAL\\Models\\Recipe.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAwwB4AAAAFAAAA",
+              "DocumentIndex": 16,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "munchies-backend\\Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "munchies-backend\\Controllers\\ChatController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAABrAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T00:12:37.832Z"
+              "WhenOpened": "2024-05-13T11:50:58.029Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "BrandRecipeDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\DTOs\\BrandRecipeDTO.cs",
-              "RelativeDocumentMoniker": "BLL\\DTOs\\BrandRecipeDTO.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\DTOs\\BrandRecipeDTO.cs",
-              "RelativeToolTip": "BLL\\DTOs\\BrandRecipeDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "DocumentIndex": 15,
+              "Title": "TransactionModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\Models\\TransactionModel.cs",
+              "RelativeDocumentMoniker": "munchies-backend\\Models\\TransactionModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\Models\\TransactionModel.cs",
+              "RelativeToolTip": "munchies-backend\\Models\\TransactionModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T08:46:51.679Z"
+              "WhenOpened": "2024-05-14T12:36:02.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RecipeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\Controllers\\RecipeController.cs",
+              "RelativeDocumentMoniker": "munchies-backend\\Controllers\\RecipeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\Controllers\\RecipeController.cs",
+              "RelativeToolTip": "munchies-backend\\Controllers\\RecipeController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:00:28.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DeliveryBoyProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\Controllers\\DeliveryBoyProfileController.cs",
+              "RelativeDocumentMoniker": "munchies-backend\\Controllers\\DeliveryBoyProfileController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\munchies-backend\\Controllers\\DeliveryBoyProfileController.cs",
+              "RelativeToolTip": "munchies-backend\\Controllers\\DeliveryBoyProfileController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:27:23.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ServerPassRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Repos\\ServerPassRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\ServerPassRepo.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Repos\\ServerPassRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\ServerPassRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:45:08.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ChatLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\DTOs\\ChatLoginDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\ChatLoginDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\DTOs\\ChatLoginDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\ChatLoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:15:23.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ChatUserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Repos\\ChatUserRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\ChatUserRepo.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Repos\\ChatUserRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\ChatUserRepo.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:37:36.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ChatUser.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Models\\ChatUser.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\ChatUser.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Models\\ChatUser.cs",
+              "RelativeToolTip": "DAL\\Models\\ChatUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:36:09.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ChatProfileDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\DTOs\\ChatProfileDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\ChatProfileDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\DTOs\\ChatProfileDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\ChatProfileDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:55:18.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DeliveryBoyProfileService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\Services\\DeliveryBoyProfileService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\DeliveryBoyProfileService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\Services\\DeliveryBoyProfileService.cs",
+              "RelativeToolTip": "BLL\\Services\\DeliveryBoyProfileService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:25:50.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ChatUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\Services\\ChatUserService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\ChatUserService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\Services\\ChatUserService.cs",
+              "RelativeToolTip": "BLL\\Services\\ChatUserService.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAcwEEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:54:34.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DeliveryBoyProfileRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Repos\\DeliveryBoyProfileRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\DeliveryBoyProfileRepo.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Repos\\DeliveryBoyProfileRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\DeliveryBoyProfileRepo.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAowC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:26:18.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "DAL\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T11:27:07.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RecipeService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\Services\\RecipeService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\RecipeService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\Services\\RecipeService.cs",
+              "RelativeToolTip": "BLL\\Services\\RecipeService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwDQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:52:28.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "202405131657169_str_pk_chat.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Migrations\\202405131657169_str_pk_chat.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202405131657169_str_pk_chat.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Migrations\\202405131657169_str_pk_chat.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202405131657169_str_pk_chat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:57:19.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DeliveryBoyProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Models\\DeliveryBoyProfile.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\DeliveryBoyProfile.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Models\\DeliveryBoyProfile.cs",
+              "RelativeToolTip": "DAL\\Models\\DeliveryBoyProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:24:08.588Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 34,
-              "Title": "BrandDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\DTOs\\BrandDTO.cs",
-              "RelativeDocumentMoniker": "BLL\\DTOs\\BrandDTO.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\DTOs\\BrandDTO.cs",
-              "RelativeToolTip": "BLL\\DTOs\\BrandDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "Title": "Profile.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Models\\Profile.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Profile.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Models\\Profile.cs",
+              "RelativeToolTip": "DAL\\Models\\Profile.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAmwCwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T05:01:23.645Z"
+              "WhenOpened": "2024-05-12T15:40:02.263Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 30,
               "Title": "Ingredient.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Models\\Ingredient.cs",
               "RelativeDocumentMoniker": "DAL\\Models\\Ingredient.cs",
@@ -628,7 +688,235 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "serverPass.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Models\\serverPass.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\serverPass.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Models\\serverPass.cs",
+              "RelativeToolTip": "DAL\\Models\\serverPass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:32:53.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Meal.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Models\\Meal.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Meal.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Models\\Meal.cs",
+              "RelativeToolTip": "DAL\\Models\\Meal.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:37:36.564Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 36,
+              "Title": "DeliveryBoyProfileDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\DTOs\\DeliveryBoyProfileDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\DeliveryBoyProfileDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\DTOs\\DeliveryBoyProfileDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\DeliveryBoyProfileDTO.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:25:15.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "202405131632020_chatUserPK.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Migrations\\202405131632020_chatUserPK.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202405131632020_chatUserPK.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Migrations\\202405131632020_chatUserPK.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202405131632020_chatUserPK.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:32:04.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Models\\Recipe.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Recipe.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Models\\Recipe.cs",
+              "RelativeToolTip": "DAL\\Models\\Recipe.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA9wB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T00:12:37.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "PassChangeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\DTOs\\PassChangeDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\PassChangeDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\DTOs\\PassChangeDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\PassChangeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:47:03.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Repos\\Repo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\Repo.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Repos\\Repo.cs",
+              "RelativeToolTip": "DAL\\Repos\\Repo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T11:58:19.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RecipeRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Repos\\RecipeRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\RecipeRepo.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Repos\\RecipeRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\RecipeRepo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T04:32:22.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ProfileRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Repos\\ProfileRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\ProfileRepo.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Repos\\ProfileRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\ProfileRepo.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:41:19.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IngredientRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Repos\\IngredientRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\IngredientRepo.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Repos\\IngredientRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\IngredientRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T03:47:00.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MealRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Repos\\MealRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\MealRepo.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Repos\\MealRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\MealRepo.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAcwDsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:39:17.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "202405131617560_remove_db_gen_id_chatuser.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Migrations\\202405131617560_remove_db_gen_id_chatuser.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202405131617560_remove_db_gen_id_chatuser.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Migrations\\202405131617560_remove_db_gen_id_chatuser.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202405131617560_remove_db_gen_id_chatuser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:17:59.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "BrandService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\Services\\BrandService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\BrandService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\Services\\BrandService.cs",
+              "RelativeToolTip": "BLL\\Services\\BrandService.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAqwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:55:43.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IngredientDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\DTOs\\IngredientDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\IngredientDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\DTOs\\IngredientDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\IngredientDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:01:44.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MealDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\DTOs\\MealDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\MealDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\DTOs\\MealDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\MealDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:38:53.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ProfileDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\DTOs\\ProfileDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\ProfileDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\DTOs\\ProfileDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\ProfileDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:40:58.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "RecipeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\DTOs\\RecipeDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\RecipeDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\DTOs\\RecipeDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\RecipeDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:02:02.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "202405131554025_added_ChatProfile_ServerPass.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Migrations\\202405131554025_added_ChatProfile_ServerPass.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202405131554025_added_ChatProfile_ServerPass.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Migrations\\202405131554025_added_ChatProfile_ServerPass.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202405131554025_added_ChatProfile_ServerPass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:54:07.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "BrandRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Repos\\BrandRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\BrandRepo.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Repos\\BrandRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\BrandRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T04:14:11.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
               "Title": "Brand.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Models\\Brand.cs",
               "RelativeDocumentMoniker": "DAL\\Models\\Brand.cs",
@@ -640,7 +928,79 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 54,
+              "Title": "202405101449523_added_column_Brand_Id_to_Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Migrations\\202405101449523_added_column_Brand_Id_to_Recipe.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202405101449523_added_column_Brand_Id_to_Recipe.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Migrations\\202405101449523_added_column_Brand_Id_to_Recipe.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202405101449523_added_column_Brand_Id_to_Recipe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:49:56.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "202405121548447_added_customerProfile_and_Meal.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Migrations\\202405121548447_added_customerProfile_and_Meal.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202405121548447_added_customerProfile_and_Meal.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Migrations\\202405121548447_added_customerProfile_and_Meal.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202405121548447_added_customerProfile_and_Meal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:48:49.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "202405121529255_added_deliveryBoyProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Migrations\\202405121529255_added_deliveryBoyProfile.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202405121529255_added_deliveryBoyProfile.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Migrations\\202405121529255_added_deliveryBoyProfile.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202405121529255_added_deliveryBoyProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:29:30.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRepo.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T04:53:05.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "BrandRecipeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\DTOs\\BrandRecipeDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\BrandRecipeDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\DTOs\\BrandRecipeDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\BrandRecipeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T08:46:51.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "BrandDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\DTOs\\BrandDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\BrandDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\DTOs\\BrandDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\BrandDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:01:23.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
               "Title": "202405102356581_fixed_brand_foreign_key_in_Recipe.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Migrations\\202405102356581_fixed_brand_foreign_key_in_Recipe.cs",
               "RelativeDocumentMoniker": "DAL\\Migrations\\202405102356581_fixed_brand_foreign_key_in_Recipe.cs",
@@ -652,7 +1012,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 61,
               "Title": "202404300147246_added_Ingrdients_Recipes_Brands_Tables.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Migrations\\202404300147246_added_Ingrdients_Recipes_Brands_Tables.cs",
               "RelativeDocumentMoniker": "DAL\\Migrations\\202404300147246_added_Ingrdients_Recipes_Brands_Tables.cs",
@@ -664,7 +1024,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 62,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\App.config",
               "RelativeDocumentMoniker": "DAL\\App.config",
@@ -676,31 +1036,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Migrations\\Configuration.cs",
-              "RelativeDocumentMoniker": "DAL\\Migrations\\Configuration.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Migrations\\Configuration.cs",
-              "RelativeToolTip": "DAL\\Migrations\\Configuration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T11:27:07.244Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 64,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Class1.cs",
               "RelativeDocumentMoniker": "DAL\\Class1.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\DAL\\Class1.cs",
               "RelativeToolTip": "DAL\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-30T03:46:59.711Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 63,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\BLL\\Class1.cs",
               "RelativeDocumentMoniker": "BLL\\Class1.cs",

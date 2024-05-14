@@ -42,5 +42,21 @@ namespace BLL.Services
             return mapper.Map<List<ProfileDTO>>(data);
 
         }
+        public static void Update(int id, ProfileDTO updatedProfile)
+        {
+            var config = new MapperConfiguration(cfg =>
+            {
+                cfg.CreateMap<ProfileDTO, DAL.Models.Profile>();
+            });
+            var mapper = new Mapper(config);
+            var updatedProfileEntity = mapper.Map<DAL.Models.Profile>(updatedProfile);
+            updatedProfileEntity.Id = id; // Ensure the ID is set for the correct meal to update
+            DataAccessFactory.ProfileData().Update(updatedProfileEntity);
+        }
+
+        public static void Delete(int id)
+        {
+            DataAccessFactory.ProfileData().Delete(id);
+        }
     }
 }

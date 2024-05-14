@@ -73,22 +73,48 @@
     <Compile Include="Migrations\202405121548447_added_customerProfile_and_Meal.Designer.cs">
       <DependentUpon>202405121548447_added_customerProfile_and_Meal.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202405131554025_added_ChatProfile_ServerPass.cs" />
+    <Compile Include="Migrations\202405131554025_added_ChatProfile_ServerPass.Designer.cs">
+      <DependentUpon>202405131554025_added_ChatProfile_ServerPass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202405131617560_remove_db_gen_id_chatuser.cs" />
+    <Compile Include="Migrations\202405131617560_remove_db_gen_id_chatuser.Designer.cs">
+      <DependentUpon>202405131617560_remove_db_gen_id_chatuser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202405131632020_chatUserPK.cs" />
+    <Compile Include="Migrations\202405131632020_chatUserPK.Designer.cs">
+      <DependentUpon>202405131632020_chatUserPK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202405131657169_str_pk_chat.cs" />
+    <Compile Include="Migrations\202405131657169_str_pk_chat.Designer.cs">
+      <DependentUpon>202405131657169_str_pk_chat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202405141429288_added_reviews.cs" />
+    <Compile Include="Migrations\202405141429288_added_reviews.Designer.cs">
+      <DependentUpon>202405141429288_added_reviews.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Brand.cs" />
+    <Compile Include="Models\ChatUser.cs" />
     <Compile Include="Models\DeliveryBoyProfile.cs" />
     <Compile Include="Models\Ingredient.cs" />
     <Compile Include="Models\Meal.cs" />
     <Compile Include="Models\MunchiesDbContext.cs" />
     <Compile Include="Models\Profile.cs" />
     <Compile Include="Models\Recipe.cs" />
+    <Compile Include="Models\Review.cs" />
+    <Compile Include="Models\serverPass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repos\BrandRepo.cs" />
+    <Compile Include="Repos\ChatUserRepo.cs" />
     <Compile Include="Repos\DeliveryBoyProfileRepo.cs" />
     <Compile Include="Repos\IngredientRepo.cs" />
     <Compile Include="Repos\MealRepo.cs" />
     <Compile Include="Repos\ProfileRepo.cs" />
     <Compile Include="Repos\RecipeRepo.cs" />
     <Compile Include="Repos\Repo.cs" />
+    <Compile Include="Repos\ReviewRepo.cs" />
+    <Compile Include="Repos\ServerPassRepo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -110,6 +136,21 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202405121548447_added_customerProfile_and_Meal.resx">
       <DependentUpon>202405121548447_added_customerProfile_and_Meal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202405131554025_added_ChatProfile_ServerPass.resx">
+      <DependentUpon>202405131554025_added_ChatProfile_ServerPass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202405131617560_remove_db_gen_id_chatuser.resx">
+      <DependentUpon>202405131617560_remove_db_gen_id_chatuser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202405131632020_chatUserPK.resx">
+      <DependentUpon>202405131632020_chatUserPK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202405131657169_str_pk_chat.resx">
+      <DependentUpon>202405131657169_str_pk_chat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202405141429288_added_reviews.resx">
+      <DependentUpon>202405141429288_added_reviews.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

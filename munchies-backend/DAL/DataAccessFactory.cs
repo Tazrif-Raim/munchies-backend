@@ -40,5 +40,20 @@ namespace DAL
         {
             return new ProfileRepo();
         }
+
+        public static IRepo<ChatUser, string, ChatUser> ChatUserData()
+        {
+               return new ChatUserRepo();
+        }
+
+        public static IRepo<serverPass, string, serverPass> serverPassData()
+        {
+            return new ServerPassRepo();
+        }
+
+        public static IRepo<Review, int, Review> ReviewData()
+        {
+            return new ReviewRepo();
+        }
     }
 }

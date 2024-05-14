@@ -15,5 +15,8 @@ namespace DAL.Models
         public DbSet<DeliveryBoyProfile> DeliveryBoyProfiles { get; set; }
         public DbSet<Meal> Meals { get; set; }
         public DbSet<Profile> Profiles { get; set; }
+        public DbSet<serverPass> serverPasses { get; set; }
+        public DbSet<ChatUser> ChatUsers { get; set; }
+        public DbSet<Review> Reviews { get; set; }
     }
 }
