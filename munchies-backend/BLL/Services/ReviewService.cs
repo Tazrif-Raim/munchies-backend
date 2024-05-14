@@ -46,7 +46,7 @@ namespace BLL.Services
         {
             var config = new MapperConfiguration(cfg =>
             {
-                cfg.CreateMap<ReviewDTO, Meal>();
+                cfg.CreateMap<ReviewDTO, Review>();
             });
             var mapper = new Mapper(config);
             var updatedReviewEntity = mapper.Map<Review>(updatedReview);

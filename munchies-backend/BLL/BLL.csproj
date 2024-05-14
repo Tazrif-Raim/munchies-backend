@@ -47,23 +47,35 @@
     <Compile Include="Class1.cs" />
     <Compile Include="DTOs\BrandDTO.cs" />
     <Compile Include="DTOs\BrandRecipeDTO.cs" />
+    <Compile Include="DTOs\ChangeMobileBankingNumberDTO.cs" />
     <Compile Include="DTOs\ChatLoginDTO.cs" />
     <Compile Include="DTOs\ChatProfileDTO.cs" />
+    <Compile Include="DTOs\CreateUserDTO.cs" />
     <Compile Include="DTOs\DeliveryBoyProfileDTO.cs" />
     <Compile Include="DTOs\IngredientDTO.cs" />
+    <Compile Include="DTOs\LogisticDTO.cs" />
     <Compile Include="DTOs\MealDTO.cs" />
+    <Compile Include="DTOs\OrderLocation.cs" />
     <Compile Include="DTOs\PassChangeDTO.cs" />
     <Compile Include="DTOs\ProfileDTO.cs" />
     <Compile Include="DTOs\RecipeDTO.cs" />
+    <Compile Include="DTOs\RegistrationDTO.cs" />
     <Compile Include="DTOs\ReviewDTO.cs" />
+    <Compile Include="DTOs\StockTableDTO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\BrandService.cs" />
+    <Compile Include="Services\ChangeMobileBankingNumberService.cs" />
     <Compile Include="Services\ChatUserService.cs" />
+    <Compile Include="Services\CreateUserService.cs" />
     <Compile Include="Services\DeliveryBoyProfileService.cs" />
+    <Compile Include="Services\LogisticService.cs" />
     <Compile Include="Services\MealService.cs" />
+    <Compile Include="Services\OrderLocationService.cs" />
     <Compile Include="Services\ProfileService.cs" />
     <Compile Include="Services\RecipeService.cs" />
+    <Compile Include="Services\RegistrationService.cs" />
     <Compile Include="Services\ReviewService.cs" />
+    <Compile Include="Services\StockTableService.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DAL\DAL.csproj">

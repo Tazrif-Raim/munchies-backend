@@ -55,5 +55,32 @@ namespace DAL
         {
             return new ReviewRepo();
         }
+
+        public static IRepo<OrderLocation, int, OrderLocation> OrderLocationData()
+        {
+            return new OrderLocationRepo();
+        }
+        public static IRepo<ChangeMobileBankingNumber, int, ChangeMobileBankingNumber> ChangeMobileBankingNumberData()
+        {
+            return new ChangeMobileBankingNumberRepo();
+        }
+        public static IRepo<Registration, int, Registration> RegistrationData()
+        {
+            return new RegistrationRepo();
+        }
+        public static IRepo<CreateUser,  int, CreateUser> CreateUserData()
+        {
+            return new CreateUserRepo();
+        }
+
+        public static IRepo<StockTable, int, StockTable> StockTableData()
+        {
+            return new StockTableRepo();
+        }
+
+        public static IRepo<Logistic, int, Logistic> LogisticData()
+        {
+            return new LogisticRepo();
+        }
     }
 }

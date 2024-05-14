@@ -9,44 +9,44 @@ using System.Web.Http;
 
 namespace munchies_backend.Controllers
 {
-    public class DeliveryBoyProfileController : ApiController
+    public class CreateUser : ApiController
     {
         [HttpPost]
-        [Route("api/DeliveryBoyProfile/create")]
-        public HttpResponseMessage Create(DeliveryBoyProfileDTO s)
+        [Route("api/CreateUser/create")]
+        public HttpResponseMessage Create(CreateUserDTO s)
         {
-            DeliveryBoyProfileService.Create(s);
+            CreateUserService.Create(s);
             return Request.CreateResponse(HttpStatusCode.OK);
 
         }
         [HttpGet]
-        [Route("api/DeliveryBoyProfile/{id}")]
+        [Route("api/CreateUser/{id}")]
         public HttpResponseMessage Get(int id)
         {
-            var data = DeliveryBoyProfileService.Get(id);
+            var data = CreateUserService.Get(id);
             return Request.CreateResponse(HttpStatusCode.OK, data);
         }
         [HttpGet]
-        [Route("api/DeliveryBoyProfile/all")]
+        [Route("api/CreateUser/all")]
         public HttpResponseMessage Get()
         {
-            var data = DeliveryBoyProfileService.Get();
+            var data = CreateUserService.Get();
             return Request.CreateResponse(HttpStatusCode.OK, data);
 
         }
         [HttpPut]
-        [Route("api/DeliveryBoyProfile/update/{id}")]
-        public HttpResponseMessage Update(int id, DeliveryBoyProfileDTO s)
+        [Route("api/CreateUser/update/{id}")]
+        public HttpResponseMessage Update(int id, CreateUserDTO s)
         {
-            DeliveryBoyProfileService.Update(id, s);
+            CreateUserService.Update(id, s);
             return Request.CreateResponse(HttpStatusCode.OK);
         }
 
         [HttpDelete]
-        [Route("api/DeliveryBoyProfile/delete/{id}")]
+        [Route("api/createUser/delete/{id}")]
         public HttpResponseMessage Delete(int id)
         {
-            DeliveryBoyProfileService.Delete(id);
+            CreateUserService.Delete(id);
             return Request.CreateResponse(HttpStatusCode.OK);
         }
     }

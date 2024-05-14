@@ -18,5 +18,11 @@ namespace DAL.Models
         public DbSet<serverPass> serverPasses { get; set; }
         public DbSet<ChatUser> ChatUsers { get; set; }
         public DbSet<Review> Reviews { get; set; }
+        public DbSet<OrderLocation> OrderLocations { get; set; }
+        public DbSet<ChangeMobileBankingNumber> ChangeMobileBankingNumbers { get; set; }
+        public DbSet<Registration> Registrations { get; set; }
+        public DbSet<CreateUser> CreateUsers { get; set; }
+        public DbSet<StockTable> StockTables { get; set; }
+        public DbSet<Logistic> Logistics { get; set; }
     }
 }

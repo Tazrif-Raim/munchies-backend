@@ -6,47 +6,47 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
-
 namespace munchies_backend.Controllers
 {
-    public class DeliveryBoyProfileController : ApiController
+    public class OrderLocationController : ApiController
     {
         [HttpPost]
-        [Route("api/DeliveryBoyProfile/create")]
-        public HttpResponseMessage Create(DeliveryBoyProfileDTO s)
+        [Route("api/location/create")]
+        public HttpResponseMessage Create(OrderLocationDTO s)
         {
-            DeliveryBoyProfileService.Create(s);
+            OrderLocationService.Create(s);
             return Request.CreateResponse(HttpStatusCode.OK);
 
         }
         [HttpGet]
-        [Route("api/DeliveryBoyProfile/{id}")]
+        [Route("api/location/{id}")]
         public HttpResponseMessage Get(int id)
         {
-            var data = DeliveryBoyProfileService.Get(id);
+            var data = OrderLocationService.Get(id);
             return Request.CreateResponse(HttpStatusCode.OK, data);
         }
         [HttpGet]
-        [Route("api/DeliveryBoyProfile/all")]
+        [Route("api/location/all")]
         public HttpResponseMessage Get()
         {
-            var data = DeliveryBoyProfileService.Get();
+            var data = OrderLocationService.Get();
             return Request.CreateResponse(HttpStatusCode.OK, data);
 
         }
+
         [HttpPut]
-        [Route("api/DeliveryBoyProfile/update/{id}")]
-        public HttpResponseMessage Update(int id, DeliveryBoyProfileDTO s)
+        [Route("api/location/update/{id}")]
+        public HttpResponseMessage Update(int id, OrderLocationDTO s)
         {
-            DeliveryBoyProfileService.Update(id, s);
+            OrderLocationService.Update(id, s);
             return Request.CreateResponse(HttpStatusCode.OK);
         }
 
         [HttpDelete]
-        [Route("api/DeliveryBoyProfile/delete/{id}")]
+        [Route("api/location/delete/{id}")]
         public HttpResponseMessage Delete(int id)
         {
-            DeliveryBoyProfileService.Delete(id);
+            OrderLocationService.Delete(id);
             return Request.CreateResponse(HttpStatusCode.OK);
         }
     }

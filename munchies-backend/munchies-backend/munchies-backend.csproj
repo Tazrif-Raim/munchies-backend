@@ -118,13 +118,19 @@
   <ItemGroup>
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\BrandController.cs" />
+    <Compile Include="Controllers\ChangeMobileBankingNumberController.cs" />
     <Compile Include="Controllers\ChatController.cs" />
+    <Compile Include="Controllers\CreateUserController.cs" />
     <Compile Include="Controllers\DeliveryBoyProfileController.cs" />
+    <Compile Include="Controllers\LogisticController.cs" />
     <Compile Include="Controllers\MealController.cs" />
+    <Compile Include="Controllers\OrderLocationController.cs" />
     <Compile Include="Controllers\PaymentController.cs" />
     <Compile Include="Controllers\ProfileController.cs" />
     <Compile Include="Controllers\RecipeController.cs" />
+    <Compile Include="Controllers\RegistrationController.cs" />
     <Compile Include="Controllers\ReviewController.cs" />
+    <Compile Include="Controllers\StockTableController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>

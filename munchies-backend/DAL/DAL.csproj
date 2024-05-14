@@ -93,28 +93,44 @@
     <Compile Include="Migrations\202405141429288_added_reviews.Designer.cs">
       <DependentUpon>202405141429288_added_reviews.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202405141935313_stock_logistic_OrderLocation_Mobile_Reg_CreateUser.cs" />
+    <Compile Include="Migrations\202405141935313_stock_logistic_OrderLocation_Mobile_Reg_CreateUser.Designer.cs">
+      <DependentUpon>202405141935313_stock_logistic_OrderLocation_Mobile_Reg_CreateUser.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Brand.cs" />
+    <Compile Include="Models\ChangeMobileBankingNumber.cs" />
     <Compile Include="Models\ChatUser.cs" />
+    <Compile Include="Models\CreateUser.cs" />
     <Compile Include="Models\DeliveryBoyProfile.cs" />
     <Compile Include="Models\Ingredient.cs" />
+    <Compile Include="Models\Logistic.cs" />
     <Compile Include="Models\Meal.cs" />
     <Compile Include="Models\MunchiesDbContext.cs" />
+    <Compile Include="Models\OrderLocation.cs" />
     <Compile Include="Models\Profile.cs" />
     <Compile Include="Models\Recipe.cs" />
+    <Compile Include="Models\Registration.cs" />
     <Compile Include="Models\Review.cs" />
     <Compile Include="Models\serverPass.cs" />
+    <Compile Include="Models\StockTable.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repos\BrandRepo.cs" />
+    <Compile Include="Repos\ChangeMobileBankingNumberRepo.cs" />
     <Compile Include="Repos\ChatUserRepo.cs" />
+    <Compile Include="Repos\CreateUserRepo.cs" />
     <Compile Include="Repos\DeliveryBoyProfileRepo.cs" />
     <Compile Include="Repos\IngredientRepo.cs" />
+    <Compile Include="Repos\LogisticRepo.cs" />
     <Compile Include="Repos\MealRepo.cs" />
+    <Compile Include="Repos\OrderLocationRepo.cs" />
     <Compile Include="Repos\ProfileRepo.cs" />
     <Compile Include="Repos\RecipeRepo.cs" />
+    <Compile Include="Repos\RegistrationRepo.cs" />
     <Compile Include="Repos\Repo.cs" />
     <Compile Include="Repos\ReviewRepo.cs" />
     <Compile Include="Repos\ServerPassRepo.cs" />
+    <Compile Include="Repos\StockTableRepo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -151,6 +167,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202405141429288_added_reviews.resx">
       <DependentUpon>202405141429288_added_reviews.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202405141935313_stock_logistic_OrderLocation_Mobile_Reg_CreateUser.resx">
+      <DependentUpon>202405141935313_stock_logistic_OrderLocation_Mobile_Reg_CreateUser.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
