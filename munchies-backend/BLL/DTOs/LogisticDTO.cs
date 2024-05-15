@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace BLL.DTOs
 {
-    public class LogisticDTO
+    public class LogisticDTO : userDTO
     {
-        public int Id { get; set; }
-
         public string Restaurantame { get; set; }
 
         public string Company { get; set; }

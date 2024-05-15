@@ -117,6 +117,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Auth\adminAuth.cs" />
+    <Compile Include="Auth\CustomerAuth.cs" />
+    <Compile Include="Auth\DeliveryManAuth.cs" />
+    <Compile Include="Auth\LogisticAuth.cs" />
+    <Compile Include="Auth\RestaurantAuth.cs" />
+    <Compile Include="Auth\userAuth.cs" />
     <Compile Include="Controllers\BrandController.cs" />
     <Compile Include="Controllers\ChangeMobileBankingNumberController.cs" />
     <Compile Include="Controllers\ChatController.cs" />
@@ -131,9 +137,12 @@
     <Compile Include="Controllers\RegistrationController.cs" />
     <Compile Include="Controllers\ReviewController.cs" />
     <Compile Include="Controllers\StockTableController.cs" />
+    <Compile Include="Controllers\userController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\changePasswordDTO.cs" />
+    <Compile Include="Models\loginDTO.cs" />
     <Compile Include="Models\TransactionModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

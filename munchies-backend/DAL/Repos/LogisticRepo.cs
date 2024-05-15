@@ -39,7 +39,7 @@ namespace DAL.Repos
 
         public Logistic Update(Logistic obj)
         {
-            var ex = Read(obj.Id);
+            var ex = Read(obj.id);
             db.Entry(ex).CurrentValues.SetValues(obj);
             if (db.SaveChanges() > 0) return obj;
             return null;

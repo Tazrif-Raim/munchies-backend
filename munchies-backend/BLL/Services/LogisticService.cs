@@ -19,12 +19,12 @@ namespace BLL.Services
             });
             var mapper = new Mapper(config);
             var cnv = mapper.Map<Logistic>(s);
-            DataAccessFactory.logisticData().Create(cnv);
+            DataAccessFactory.LogisticData().Create(cnv);
         }
         public static LogisticDTO Get(int id)
         {
 
-            var data = DataAccessFactory.logisticData().Read(id);
+            var data = DataAccessFactory.LogisticData().Read(id);
             var config = new MapperConfiguration(cfg => {
                 cfg.CreateMap<Logistic, LogisticDTO>();
             });
@@ -33,7 +33,7 @@ namespace BLL.Services
         }
         public static List<LogisticDTO> Get()
         {
-            var data = DataAccessFactory.logisticData().Read();
+            var data = DataAccessFactory.LogisticData().Read();
             var config = new MapperConfiguration(cfg => {
                 cfg.CreateMap<Logistic, LogisticDTO>();
             });
@@ -49,14 +49,14 @@ namespace BLL.Services
             });
             var mapper = new Mapper(config);
             var updatedlogisticEntity = mapper.Map<Logistic>(updatedlogistic);
-            updatedlogisticEntity.Id = id;
+            updatedlogisticEntity.id = id;
             // Ensure the ID is set for the correct logistic to update
-            DataAccessFactory.logisticData().Update(updatedlogisticEntity);
+            DataAccessFactory.LogisticData().Update(updatedlogisticEntity);
         }
 
         public static void Delete(int id)
         {
-            DataAccessFactory.logisticData().Delete(id);
+            DataAccessFactory.LogisticData().Delete(id);
         }
     }
 }

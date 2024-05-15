@@ -24,5 +24,7 @@ namespace DAL.Models
         [Required]
         [MaxLength(255)]
         public string PasswordHash { get; set; }
+
+
     }
 }

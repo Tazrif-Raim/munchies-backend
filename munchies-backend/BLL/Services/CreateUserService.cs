@@ -12,7 +12,7 @@ namespace BLL.Services
 {
     public class CreateUserService
     {
-        public static void Create(CreateUserDTO s)
+        /*public static void Create(CreateUserDTO s)
         {
             var config = new MapperConfiguration(cfg => {
                 cfg.CreateMap<CreateUserDTO, CreateUser>();
@@ -56,7 +56,7 @@ namespace BLL.Services
         public static void Delete(int id)
         {
             DataAccessFactory.CreateUserData().Delete(id);
-        }
+        }*/
 
     }
 }

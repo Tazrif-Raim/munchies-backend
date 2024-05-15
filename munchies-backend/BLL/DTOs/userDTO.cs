@@ -4,15 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DAL.Models
+namespace BLL.DTOs
 {
-    public class CreateUser
+    public class userDTO
     {
         public int id { get; set; }
         public string username { get; set; }
         public string password { get; set; }
-
-        //user role maybe admin/employee/bus-providers/customer
         public string userRole { get; set; }
     }
 }

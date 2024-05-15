@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DAL.EF.Models;
+using System;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
@@ -21,7 +22,13 @@ namespace DAL.Models
         public DbSet<OrderLocation> OrderLocations { get; set; }
         public DbSet<ChangeMobileBankingNumber> ChangeMobileBankingNumbers { get; set; }
         public DbSet<Registration> Registrations { get; set; }
-        public DbSet<CreateUser> CreateUsers { get; set; }
+        public DbSet<user> users { get; set; }
+        public DbSet<token> tokens { get; set; }
+        public DbSet<Admin> Admins { get; set; }
+        public DbSet<Customer> Customers { get; set; }
+        public DbSet<DeliveryMan> DeliveryMans { get; set; }
+
+        public DbSet<Restaurant> Restaurants { get; set; }
         public DbSet<StockTable> StockTables { get; set; }
         public DbSet<Logistic> Logistics { get; set; }
     }

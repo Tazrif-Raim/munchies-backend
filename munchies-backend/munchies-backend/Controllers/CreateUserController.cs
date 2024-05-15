@@ -11,7 +11,7 @@ namespace munchies_backend.Controllers
 {
     public class CreateUser : ApiController
     {
-        [HttpPost]
+        /*[HttpPost]
         [Route("api/CreateUser/create")]
         public HttpResponseMessage Create(CreateUserDTO s)
         {
@@ -48,6 +48,6 @@ namespace munchies_backend.Controllers
         {
             CreateUserService.Delete(id);
             return Request.CreateResponse(HttpStatusCode.OK);
-        }
+        }*/
     }
 }

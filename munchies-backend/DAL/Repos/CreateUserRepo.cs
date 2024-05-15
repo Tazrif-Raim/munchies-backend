@@ -8,9 +8,9 @@ using System.Threading.Tasks;
 
 namespace DAL.Repos
 {
-    internal class CreateUserRepo : Repo, IRepo<CreateUser, int, CreateUser>
+    internal class CreateUserRepo : Repo//, IRepo<CreateUser, int, CreateUser>
     {
-        public CreateUser Create(CreateUser obj)
+        /*public CreateUser Create(CreateUser obj)
         {
             db.CreateUsers.Add(obj);
             if (db.SaveChanges() > 0) return obj;
@@ -40,6 +40,6 @@ namespace DAL.Repos
             db.Entry(ex).CurrentValues.SetValues(obj);
             if (db.SaveChanges() > 0) return obj;
             return null;
-        }
+        }*/
     }
 }

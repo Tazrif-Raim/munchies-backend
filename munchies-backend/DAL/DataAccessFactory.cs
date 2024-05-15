@@ -1,8 +1,10 @@
-﻿using DAL.Interfaces;
+﻿using DAL.EF.Models;
+using DAL.Interfaces;
 using DAL.Models;
 using DAL.Repos;
 using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -68,10 +70,10 @@ namespace DAL
         {
             return new RegistrationRepo();
         }
-        public static IRepo<CreateUser,  int, CreateUser> CreateUserData()
+        /*public static IRepo<CreateUser,  int, CreateUser> CreateUserData()
         {
             return new CreateUserRepo();
-        }
+        }*/
 
         public static IRepo<StockTable, int, StockTable> StockTableData()
         {
@@ -82,5 +84,33 @@ namespace DAL
         {
             return new LogisticRepo();
         }
+        public static IAuth GetAuth() { 
+            return new userRepo(); 
+        }
+        public static IRepo<user, int, user> getUser() 
+        { 
+            return new userRepo(); 
+        }
+        public static IRepo<token, int, token> getToken() { 
+            return new tokenRepo(); 
+        }
+
+        public static IRepo<Admin, int, Admin> AdminData()
+        {
+            return new AdminRepo();
+        }
+        /*public static IRepo<DeliveryMan, int, DeliveryMan> DeliveryManData()
+        {
+            return new DeliveryManRepo();
+        }*/
+        public static IRepo<Customer, int, Customer> customerData()
+        {
+            return new CustomerRepo();
+        }
+        /*public static IRepo<Restaurant, int, Restaurant> RestaurantData()
+        {
+            return new RestaurantRepo();
+        }*/
+
     }
 }

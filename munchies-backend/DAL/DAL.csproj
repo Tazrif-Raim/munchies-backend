@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DataAccessFactory.cs" />
+    <Compile Include="Interfaces\IAuth.cs" />
     <Compile Include="Interfaces\IRepo.cs" />
     <Compile Include="Migrations\202404300147246_added_Ingrdients_Recipes_Brands_Tables.cs" />
     <Compile Include="Migrations\202404300147246_added_Ingrdients_Recipes_Brands_Tables.designer.cs">
@@ -97,11 +98,19 @@
     <Compile Include="Migrations\202405141935313_stock_logistic_OrderLocation_Mobile_Reg_CreateUser.Designer.cs">
       <DependentUpon>202405141935313_stock_logistic_OrderLocation_Mobile_Reg_CreateUser.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202405150500267_login_reg.cs" />
+    <Compile Include="Migrations\202405150500267_login_reg.Designer.cs">
+      <DependentUpon>202405150500267_login_reg.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\Admin.cs" />
     <Compile Include="Models\Brand.cs" />
     <Compile Include="Models\ChangeMobileBankingNumber.cs" />
     <Compile Include="Models\ChatUser.cs" />
-    <Compile Include="Models\CreateUser.cs" />
+    <Compile Include="Models\Customer.cs" />
+    <Compile Include="Models\DeliveryMan.cs" />
+    <Compile Include="Models\Restaurant.cs" />
+    <Compile Include="Models\user.cs" />
     <Compile Include="Models\DeliveryBoyProfile.cs" />
     <Compile Include="Models\Ingredient.cs" />
     <Compile Include="Models\Logistic.cs" />
@@ -114,11 +123,14 @@
     <Compile Include="Models\Review.cs" />
     <Compile Include="Models\serverPass.cs" />
     <Compile Include="Models\StockTable.cs" />
+    <Compile Include="Models\token.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repos\AdminRepo.cs" />
     <Compile Include="Repos\BrandRepo.cs" />
     <Compile Include="Repos\ChangeMobileBankingNumberRepo.cs" />
     <Compile Include="Repos\ChatUserRepo.cs" />
     <Compile Include="Repos\CreateUserRepo.cs" />
+    <Compile Include="Repos\CustomerRepo.cs" />
     <Compile Include="Repos\DeliveryBoyProfileRepo.cs" />
     <Compile Include="Repos\IngredientRepo.cs" />
     <Compile Include="Repos\LogisticRepo.cs" />
@@ -131,6 +143,8 @@
     <Compile Include="Repos\ReviewRepo.cs" />
     <Compile Include="Repos\ServerPassRepo.cs" />
     <Compile Include="Repos\StockTableRepo.cs" />
+    <Compile Include="Repos\tokenRepo.cs" />
+    <Compile Include="Repos\userRepo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -170,6 +184,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202405141935313_stock_logistic_OrderLocation_Mobile_Reg_CreateUser.resx">
       <DependentUpon>202405141935313_stock_logistic_OrderLocation_Mobile_Reg_CreateUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202405150500267_login_reg.resx">
+      <DependentUpon>202405150500267_login_reg.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
