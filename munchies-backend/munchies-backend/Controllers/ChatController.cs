@@ -17,8 +17,8 @@ namespace munchies_backend.Controllers
     [EnableCors(origins: "*", headers: "*", methods: "*")]
     public class ChatController : ApiController
     {
-        string projectId = "35ea8e1e-813f-44d5-a736-b498adb66099";
-        string privateKey = "d5d9f1a4-46e2-44f1-974a-797476204af9";
+        string projectId = "c32f0f8c-0e9d-4d3e-9886-198a38713ce2";
+        string privateKey = "1607da3b-6308-4bf2-902b-bc232beaf0ac";
 
         [HttpPost]
         [Route("api/signup")]

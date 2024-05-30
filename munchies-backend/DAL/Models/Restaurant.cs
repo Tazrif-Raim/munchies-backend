@@ -17,12 +17,6 @@ namespace DAL.Models
         public string Phone { get; set; }
         public string Email { get; set; }
         public string Description { get; set; }
-        public ICollection<Recipe> Recipes { get; set; }
-
-        public Restaurant()
-        {
-            Recipes = new List<Recipe>();
-        }
 
         public virtual user user { get; set; }
     }

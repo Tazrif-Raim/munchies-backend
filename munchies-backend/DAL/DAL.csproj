@@ -102,6 +102,10 @@
     <Compile Include="Migrations\202405150500267_login_reg.Designer.cs">
       <DependentUpon>202405150500267_login_reg.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202405290833400_removed_restaurant_recipe_foreign_key.cs" />
+    <Compile Include="Migrations\202405290833400_removed_restaurant_recipe_foreign_key.Designer.cs">
+      <DependentUpon>202405290833400_removed_restaurant_recipe_foreign_key.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Admin.cs" />
     <Compile Include="Models\Brand.cs" />
@@ -187,6 +191,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202405150500267_login_reg.resx">
       <DependentUpon>202405150500267_login_reg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202405290833400_removed_restaurant_recipe_foreign_key.resx">
+      <DependentUpon>202405290833400_removed_restaurant_recipe_foreign_key.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -3,6 +3,7 @@ using BLL.Services;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity.Core.Metadata.Edm;
+using System.Data.Entity.Infrastructure;
 using System.IO;
 using System.Linq;
 using System.Net;
@@ -20,51 +21,86 @@ namespace munchies_backend.Controllers
         public async Task<HttpResponseMessage> SetRecipe()
         {
             var mime = "";
+            RecipeDTO recipe = new RecipeDTO();
             try
             {
+                if (!Request.Content.IsMimeMultipartContent())
+                {
+                    return Request.CreateResponse(HttpStatusCode.UnsupportedMediaType, "Unsupported media type");
+                }
+
                 var provider = new MultipartFormDataStreamProvider(Path.GetTempPath());
                 await Request.Content.ReadAsMultipartAsync(provider);
 
                 var recipeJson = provider.FormData["recipe"];
-                var recipe = Newtonsoft.Json.JsonConvert.DeserializeObject<RecipeDTO>(recipeJson);
+                if (string.IsNullOrEmpty(recipeJson))
+                {
+                    return Request.CreateResponse(HttpStatusCode.BadRequest, "Recipe data is missing");
+                }
+
+                recipe = Newtonsoft.Json.JsonConvert.DeserializeObject<RecipeDTO>(recipeJson);
+                if (recipe == null)
+                {
+                    return Request.CreateResponse(HttpStatusCode.BadRequest, "Invalid recipe data");
+                }
 
                 mime = provider.Contents[0].Headers.ContentType.MediaType;
 
-                var file = provider.FileData.Count > 0 ? provider.FileData[0] : null;
-                if(file != null)
+                var file = provider.FileData.FirstOrDefault();
+                if (file != null)
                 {
                     var videoFileName = Guid.NewGuid().ToString() + Path.GetExtension(file.Headers.ContentDisposition.FileName.Trim('"'));
-                    
-                    var videoFilePath = Path.Combine("C:\\Users\\Admin\\Desktop\\munchies-backend\\munchies-backend\\videos", videoFileName);
-                    
+                    var videoFilePath = Path.Combine("C:\\Users\\Admin\\Desktop\\s\\munchies-backend\\munchies-backend\\videos", videoFileName);
+
                     File.Move(file.LocalFileName, videoFilePath);
 
                     recipe.videoPath = videoFilePath;
                     recipe.Id = Guid.NewGuid();
-                    var ingredients = recipe.Ingredients;
-
-                    foreach (var item in ingredients)
+                    foreach (var ingredient in recipe.Ingredients)
                     {
-                        item.Id = Guid.NewGuid();
+                        ingredient.Id = Guid.NewGuid();
+                        ingredient.RecipeId = recipe.Id;
                     }
-
-                    recipe.Ingredients = ingredients;
-
                     RecipeService.setRecipe(recipe);
                 }
-                return Request.CreateResponse(HttpStatusCode.OK, "recipe received");
+
+                return Request.CreateResponse(HttpStatusCode.OK, "Recipe received");
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
-                return Request.CreateResponse(HttpStatusCode.InternalServerError, new {message = ex.Message, m = mime});
+                return Request.CreateResponse(HttpStatusCode.InternalServerError, new { message = ex.Message, mime, recipe });
             }
         }
 
 
         [HttpGet]
         [Route("api/recipeVideo")]
-
         public async Task<HttpResponseMessage> GetRecipeVideo(string videoPath)
+        {
+            try
+            {
+                var response = Request.CreateResponse(HttpStatusCode.OK);
+
+                var memoryStream = new MemoryStream();
+                using (var fileStream = new FileStream(videoPath, FileMode.Open, FileAccess.Read, FileShare.Read, bufferSize: 4096, useAsync: true))
+                {
+                    await fileStream.CopyToAsync(memoryStream);
+                }
+
+                memoryStream.Position = 0;
+                response.Content = new StreamContent(memoryStream);
+                response.Content.Headers.ContentType = new MediaTypeHeaderValue("video/mp4");
+
+                return response;
+            }
+            catch (Exception ex)
+            {
+                return Request.CreateResponse(HttpStatusCode.InternalServerError, new { message = ex.Message });
+            }
+        }
+
+
+        /*public async Task<HttpResponseMessage> GetRecipeVideo(string videoPath)
         {
             try
             {
